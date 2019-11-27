@@ -3,4 +3,10 @@
     <string name="edit_text_hint">Введите текст</string>
     <string name="bender_image">Bender</string>
     <string name="send_icon">send icon</string>
+    <string name="profile_label_rating">Рэйтинг</string>
+    <string name="profile_label_respect">Уважение</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="about">О себе</string>
+    <string name="repository">Репозиторий</string>
 </resources>
