@@ -15,7 +15,7 @@ import ru.skillbranch.devintensive.R
 import ru.skillbranch.devintensive.models.Profile
 import ru.skillbranch.devintensive.viewmodels.ProfileViewModel
 
-class MainActivity : AppCompatActivity() {
+class ProfileActivity : AppCompatActivity() {
 
     companion object {
         const val IS_EDIT_MODE = "IS EDIT MODE"
@@ -108,7 +108,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun updateTheme(mode: Int) {
-        delegate.localNightMode = mode
+        //delegate.localNightMode = mode
     }
 
     private fun updateUI(profile: Profile) {
